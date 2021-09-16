@@ -4,7 +4,7 @@ We are planning to make an employment management system which will handle the hi
 
 ## Team Members and Roles
 * [Shweta Terkar](https://github.com/shwetaterkar/-CIS641-HW2-terkars.git) (System analysis , Designer)
-* [Arun Konda](https://github.com/kondaa1/CIS641-HW2-Kondaa.git (Business Analyst, DBA)
+* [Arun Konda](https://github.com/kondaa1/CIS641-HW2-Kondaa.git) (Business Analyst, DBA)
 * [Damanpreet Singh](https://github.com/dpsingh2194/CIS641-HW2-Singh) (project Manager)
 * [Divyangi Rathore](https://github.com/divyar176/CIS641-HW2-Rathore.git) (System Analyst, UI Design)
 
