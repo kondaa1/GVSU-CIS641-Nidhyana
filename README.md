@@ -5,7 +5,7 @@ We are planning to make an employment management system which will handle the hi
 ## Team Members and Roles
 * https://github.com/shwetaterkar/-CIS641-HW2-terkars.git (System analysis , Designer)
 * https://github.com/kondaa1/CIS641-HW2-Kondaa.git (Business Analyst, DBA)
-* Member 3 (Role 5, Role 6)
+* https://github.com/divyar176/CIS641-HW2-Rathore.git (System Analyst, UI Design)
 
 ## Prerequisites
 * Employement data gathering from small scale buisness units
