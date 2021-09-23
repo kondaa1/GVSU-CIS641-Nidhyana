@@ -6,11 +6,11 @@ Team members: Shweta Terkar,Arun Konda,Divyangi Rathore,Damanpreet Singh
 
 We are developing a system named 'Local Business Employee Management' - LBEM, which assists local business units to find employees for the required positions and citizens to find jobs as per their requirements. This system will help to reduce the unemployment rate in Grand Rapids.  
 'Local Business Employee Management' - LBEM, is an employment system that provides skilled employees to its clients (local business units) when there are demands that are required to be fulfilled. This system allocates the employees for a particular duration to its clients. When there is a requirement of employees for any local business unit, LBEM creates an employment request specifying the type of skilled employee required and the period of the job for the requesting client. Each request will have a tracking number. In addition to this, jobless citizens can use this system to find a job. Job seekers will create a profile specifying their personal, educational, etc details. Below are the three paradigms through which the corresponding requests are processed step by step:
-* 1.Administrative department:
+* Administrative department:
 This department with the help of the tracking number will enter the request in the database and validate the request. If the request is valid, the admin will send the request to the placement department. If the request is not valid then it's sent back to the client addressing that it's disapproved.
-* 2.Placement department
+* Placement department
 Department analyzes if there are any available skilled employees for the particularized requirement. If an employee is available, then the department updates the request as 'fulfilled' in the database and it is notified to the client. If there is no availability, then it creates an 'unavailable' remark for employment request and sends it to the arrangement department.
-* 3.Arrangement department
+* Arrangement department
 This department mainly deals with job seekers. It looks for specified skilled employees in the database. If an employee is found, then the department contacts the employee and asks to agree to the placement. Once the employee is placed then the department marks the specific employee as 'hired' in the database and sends the details to the user. 
 
 At last, the 'Unavailable' remark and employment contact details are sent to the Admin. If the employment request is filled, the admin closes the request in the database or else reports to the client the reason they are not able to provide skilled workers for the specified opening. 
