@@ -15,6 +15,7 @@ Discussion points:
 
 Goals for next week (include responsibilities)
 
-* For next week we want to build a small survey and start gathering some data 
+* For next week we want to build a small survey and start gathering some data on local businesses
+ * Divya and Shweta will work on creating a detailed survey
+ * Damanpreet and Arun will work on finding employers to take the survey
 * We will also work on the Functional/non functional requirements 
-*
