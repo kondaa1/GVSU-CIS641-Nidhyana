@@ -9,7 +9,7 @@ We are planning to make an employment management system which will handle the hi
 * [Divyangi Rathore](https://github.com/divyar176/CIS641-HW2-Rathore.git) (System Analyst, UI Design, developer)
 
 ## Prerequisites
-* Employement data gathering from small scale buisness units
+* Employement data gathering from small scale business units
 * Knowledge of javascript and DBMS
 
 ## Run Instructions
