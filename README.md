@@ -12,4 +12,9 @@ We are planning to make an employment management system which will handle the hi
 * Employement data gathering from small scale business units
 * Knowledge of javascript and DBMS
 
+## Project artifacts and documents
+
+* [Artifacts](https://github.com/kondaa1/GVSU-CIS641-Nidhyana/tree/master/artifacts)
+* [Docs](https://github.com/kondaa1/GVSU-CIS641-Nidhyana/tree/master/docs)
+
 ## Run Instructions
