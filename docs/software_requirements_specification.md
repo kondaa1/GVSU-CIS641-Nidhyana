@@ -1,7 +1,7 @@
-#Overview
+# Overview
 
 
-#Functional Requirements
+# Functional Requirements
 1. Login/Sign UP
     1. Login page shall be displayed when the user clicks on the Login key.
     2. The user must enter their username and password to access the portal and if they don’t have one, one must be created. 
