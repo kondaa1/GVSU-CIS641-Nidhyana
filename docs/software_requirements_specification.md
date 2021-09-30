@@ -1,5 +1,5 @@
 # Overview
-
+A Software Requirements Specification(SRS) is a document explaining what the software/system will do and how it will do it. It has features and functionality that the product needs to satisfy the stakeholder's needs. Some of the items that a standard SRS should include are a goal, a summary, and a specific requirement. Some of the qualities of a good SRS document include correctness, Unambigousness, completeness, consistency, verifiability, modifiability, traceability. An SRS document contains functional requirements which contain some action a system must perform. It also contains a Non-functional requirement that defines the performance attribute of a software system. 
 
 # Functional Requirements
 1. Login/Sign UP
