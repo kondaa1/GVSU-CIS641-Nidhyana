@@ -16,7 +16,7 @@ A Software Requirements Specification(SRS) is a document explaining what the sof
     1. System shall effectively map skilled employees to the respective client as per the specified skill set criteria.
     2. Database shall get updated with the job request status as ‘fulfilled’, ‘unavailable’ and ‘closed’ on a timely basis.
 
-# Non-functional requirement
+# Non-functional Requirements
 1. Security
     1. The portal must securely store the user data into the database
     2. Administrators for security purposes can remove spam accounts that have been inactive for more than 6 months
