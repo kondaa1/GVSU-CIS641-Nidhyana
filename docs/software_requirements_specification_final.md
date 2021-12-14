@@ -82,11 +82,11 @@ The software requirements section describes the features,Functional and Non-func
  - | NFR 10 | The portal shall be able to send information to the database and retrieve information from the database in less than 5 seconds |
 
 #### Usability
- - | NFR 11 | Website should be Users shall easily navigate its interface | 
+ - | NFR 11 | Website shall be UI friendly so  Users can easily navigate its interface | 
  - | NFR 12 | Users shall easily determine what a feature is and what it can do |
  - | NFR 13 | All links shall be working and not be broken |
  - | NFR 14 | The site shall be able to handle different screen sizes | 
- - | NFR 15 | The site should be able to load even with slower internet connections |
+ - | NFR 15 | The site shall be able to load even with slower internet connections |
 
 #### Compatibility
  - | NFR 16 | The job portal system shall support the windows O.S. version 8,10
