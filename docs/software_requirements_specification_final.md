@@ -4,14 +4,14 @@ The software requirements section describes the features and Functional & Non-fu
 
 ### Functional Requirements
 
-##### Login
+#### Login
 - | FR1 | - | Every page on the website shall provide an option of login |
 - | FR2 | - | Users shall enter the valid username in the username field to log in and access the portal |
 - | FR3 | - | User shall enter the valid password in the password field to login and access portal |
 - | FR4 | - | There shall be a field to enter the valid password for the user |
 - | FR5 | - | Each page shall be displayed based on the user type selected while login (like               admin page for admin, employer page for the employer, and job seeker page for               job seeker). |
 
-##### Forgot Password
+#### Forgot Password
 
  - | FR6 | Forgot password page must be displayed when user clicks on forgot password |
  - | FR7 | There shall be an option for user selection (Employer or JobSeeker) |
@@ -19,14 +19,14 @@ The software requirements section describes the features and Functional & Non-fu
  - | FR9 | User shall select a security question and must enter the answer |
  - | FR10 | Submit button shall display a message based on details provided|
  
-##### Employer registration form
+#### Employer registration form
  - | FR11 | Employer shall be able to navigate to the registration form upon clicking the               register here link|
  - | FR12 | Employer shall have the ability to enter the store name |
  - | FR13 | Employer shall mention the email id to have visibility for the job seekers |
  - | FR14 | Employer shall mention the area of work which roughly specifies the job role               that the employer is looking for |
  - | FR15 | Employer shall have the ability to fill a security question with the options               provided in the form|
 
-##### Administration
+#### Administration
 
  - | FR16 | The user must log in with admin credentials and select user-type as Administrator |
  - | FR17 | Admin shall have an option to add/edit/delete users |
@@ -34,7 +34,7 @@ The software requirements section describes the features and Functional & Non-fu
  - | FR19 |Admin shall have an option to manage employer details in the “Manage Employer” tab |
  - | FR20 |Admin shall have an option to manage news like create/edit/delete news |
 
-##### Front UI
+##### FrontUI
 
  - | FR21 | UI shall have the navbar with the link that navigates to the About US section |
  - | FR22 | UI shall have the navbar with the link that navigates to the Contact US page |
@@ -42,7 +42,7 @@ The software requirements section describes the features and Functional & Non-fu
  - | FR24 | UI shall have the navbar with the link that navigates to the latest news |
  - | FR25 | UI shall have the navbar with the link that navigates to the Employers section with a list of employers and the store they are working for |
 
-##### Job Seeker registration
+#### Job Seeker registration
 
  - | FR26 | After clicking the registration link it shall navigate to a registration form |
  - | FR27 | Registration page shall have fields like name, address, city, email, mobile, qualification with a text box |
@@ -54,7 +54,7 @@ The software requirements section describes the features and Functional & Non-fu
  - | FR33 | Text box must be there to write answers for the security type. |
  - | FR34 | There shall be a submit button to save inserted data |
 
-##### Job Seeker Page:
+#### Job Seeker Page:
 
  - | FR 35 | Users shall be authenticated for login otherwise show an error message |
  - | FR36 | After login with the Jobseeker type, the user shall be able to view Profile, Education, and search jobs options |
@@ -65,7 +65,7 @@ The software requirements section describes the features and Functional & Non-fu
 
 ### Non-Functional Requirements
 
-##### Security
+#### Security
 
  - | NFR1 | The portal shall securely store the user data like username and password into the database |
  - | NFR 2 | Administrators for security purposes shall remove spam accounts that have been inactive for more than 6 months |
@@ -73,7 +73,7 @@ The software requirements section describes the features and Functional & Non-fu
  - | NRF 4 | The system shall have security questions that only the user has knowledge too while trying to reset password and while creating an account |
  - | NRF 5 | The system will never allow revealing the confidential information of other employees working in the same store |
 
-##### Performance
+#### Performance
 
  - | NFR 6 | The portal must be fast and able to load webpages in minimum time at 4 seconds and maximum time of 10 seconds |
  - | NFR 7 | System shall upload the resume in less than 5 seconds and no more than 9 seconds |
@@ -81,21 +81,21 @@ The software requirements section describes the features and Functional & Non-fu
  - | NFR 9 |The portal shall allow the user to be able to log in <3 seconds and no more than 6 seconds or it will time out |
  - | NFR 10 | The portal shall be able to send information to the database and retrieve information from the database in less than 5 seconds |
 
-##### Usability
+#### Usability
  - | NFR 11 | Website should be Users shall easily navigate its interface | 
  - | NFR 12 | Users shall easily determine what a feature is and what it can do |
  - | NFR 13 | All links shall be working and not be broken |
  - | NFR 14 | The site shall be able to handle different screen sizes | 
  - | NFR 15 | The site should be able to load even with slower internet connections |
 
-##### Compatibility
+#### Compatibility
  - | NFR 16 | The job portal system shall support the windows O.S. version 8,10
  - | NFR 17 | The job portal system shall support the MacOS 11 
  - | NFR 18 | The job portal system shall support the Linux OS 20.04 
  - | NFR 19 | The job portal application shall support IOS version 14
  - | NFR 20 | The job portal application shall support version Android 12
 
-##### Reliability
+#### Reliability
  - | NFR 21 | The failure probability percentage to determine the reliability of the application of the website shall not exceed 2-3% |
  - | NFR 22 | The application shall record the number of critical failures a system experiences during testing to check its reliability. If the number of failures is minimal and not critical then there shall not be any interruption |
  - | NFR 23 | The application shall track the time between critical failures to understand the reliability of a system |
