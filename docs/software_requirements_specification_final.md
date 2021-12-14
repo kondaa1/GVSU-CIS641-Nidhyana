@@ -5,11 +5,11 @@ The software requirements section describes the features,Functional and Non-func
 ### Functional Requirements
 
 #### Login
-- | FR1 | - | Every page on the website shall provide an option of login |
-- | FR2 | - | Users shall enter the valid username in the username field to log in and access the portal |
-- | FR3 | - | User shall enter the valid password in the password field to login and access portal |
-- | FR4 | - | There shall be a field to enter the valid password for the user |
-- | FR5 | - | Each page shall be displayed based on the user type selected while login (like               admin page for admin, employer page for the employer, and job seeker page for               job seeker). |
+- | FR1 | Every page on the website shall provide an option of login |
+- | FR2 | Users shall enter the valid username in the username field to log in and access the portal |
+- | FR3 | User shall enter the valid password in the password field to login and access portal |
+- | FR4 | There shall be a field to enter the valid password for the user |
+- | FR5 | Each page shall be displayed based on the user type selected while login (like               admin page for admin, employer page for the employer, and job seeker page for               job seeker) |
 
 #### Forgot Password
 
@@ -17,7 +17,7 @@ The software requirements section describes the features,Functional and Non-func
  - | FR7 | There shall be an option for user selection (Employer or JobSeeker) |
  - | FR8 | Users shall enter the username as part of this feature |
  - | FR9 | User shall select a security question and must enter the answer |
- - | FR10 | Submit button shall display a message based on details provided|
+ - | FR10| Submit button shall display a message based on details provided|
  
 #### Employer registration form
  - | FR11 | Employer shall be able to navigate to the registration form upon clicking the               register here link|
@@ -30,9 +30,9 @@ The software requirements section describes the features,Functional and Non-func
 
  - | FR16 | The user must log in with admin credentials and select user-type as Administrator |
  - | FR17 | Admin shall have an option to add/edit/delete users |
- - | FR18 |Admin shall have an option to manage job seeker details in the “Manage JobSeeker” tab |
- - | FR19 |Admin shall have an option to manage employer details in the “Manage Employer” tab |
- - | FR20 |Admin shall have an option to manage news like create/edit/delete news |
+ - | FR18 | Admin shall have an option to manage job seeker details in the “Manage JobSeeker” tab |
+ - | FR19 | Admin shall have an option to manage employer details in the “Manage Employer” tab |
+ - | FR20 | Admin shall have an option to manage news like create/edit/delete news |
 
 ##### FrontUI
 
@@ -67,7 +67,7 @@ The software requirements section describes the features,Functional and Non-func
 
 #### Security
 
- - | NFR1 | The portal shall securely store the user data like username and password into the database |
+ - | NFR1  | The portal shall securely store the user data like username and password into the database |
  - | NFR 2 | Administrators for security purposes shall remove spam accounts that have been inactive for more than 6 months |
  - | NFR 3 | Only Admin/Administrative department can approve Employer and Job seekers profile |
  - | NRF 4 | The system shall have security questions that only the user has knowledge too while trying to reset password and while creating an account |
@@ -75,10 +75,10 @@ The software requirements section describes the features,Functional and Non-func
 
 #### Performance
 
- - | NFR 6 | The portal must be fast and able to load webpages in minimum time at 4 seconds and maximum time of 10 seconds |
- - | NFR 7 | System shall upload the resume in less than 5 seconds and no more than 9 seconds |
- - | NFR 8 | System shall fetch a list of employers and a list of jobs in less than 5 seconds |
- - | NFR 9 |The portal shall allow the user to be able to log in <3 seconds and no more than 6 seconds or it will time out |
+ - | NFR 6  | The portal must be fast and able to load webpages in minimum time at 4 seconds and maximum time of 10 seconds |
+ - | NFR 7  | System shall upload the resume in less than 5 seconds and no more than 9 seconds |
+ - | NFR 8  | System shall fetch a list of employers and a list of jobs in less than 5 seconds |
+ - | NFR 9  | The portal shall allow the user to be able to log in <3 seconds and no more than 6 seconds or it will time out |
  - | NFR 10 | The portal shall be able to send information to the database and retrieve information from the database in less than 5 seconds |
 
 #### Usability
