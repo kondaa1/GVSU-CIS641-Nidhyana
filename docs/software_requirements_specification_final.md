@@ -103,6 +103,7 @@ The software requirements section describes the features and Functional & Non-fu
  - | NFR 25 | All the Job applicants shall be verified upon registration by a verification method |
  
 ## _Change Management Plan_
+This section elaborates activities & roles to manage and control change during the execute and control phase of the project. Change management plan deals with the transition or transformation of processes. It ensures that any changes are handled that come in the way of the development & integration process.
 #### 1) How will you train people to use it? 
 We are planning to create a video tutorial and put it on our website. The video will comprise details like:
  - All the functionalities of the website: What section does what
