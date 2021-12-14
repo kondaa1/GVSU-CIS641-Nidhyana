@@ -20,7 +20,7 @@ At last, the 'Unavailable' remark and employment contact details are sent to the
 # Anticipated Technologies
 
 Some technologies we plan on using for the planning part are lucid charts for drawing diagrams such as UML, activity diagrams, etc. We also plan on using some of the Microsoft tools to build Gantt charts. For the implementation part, we plan on using various web development tools that are available. For an IDE engine, we are planning on using Visual Studio Code and GitHub features of hosting a website. 
-Some of the programming languages we plan to use are HTML, CSS, JavaScript, JavaScript libraries such as React, Node.js. For some of our backend, we plan on using DBMS to store data. We are thinking of MongoDB for this. 
+Some of the programming languages we plan to use are HTML, CSS, JavaScript, JavaScript libraries such as React, Node.js. For some of our backend, we plan on using DBMS to store data. We are thinking of SQL for this. 
 
 
 
