@@ -10,7 +10,7 @@ We are planning to make an employment management system which will handle the hi
 
 ## Prerequisites
 * Employement data gathering from small scale business units
-* Knowledge of javascript and DBMS
+* Knowledge of PHP,HTML,CSS for Front-End and SQL for backend
 
 ## Project artifacts and documents
 
