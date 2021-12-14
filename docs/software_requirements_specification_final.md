@@ -1,6 +1,6 @@
 # Local Business Employee Management
 ## _Software Requirements_
-The software requirements section describes the features and Functional & Non-functional requirements of the expected system. In this section, we gather and process the requirements from the end-user (client), analyze and document them as Functional and Non-Functional requirements.
+The software requirements section describes the features,Functional and Non-functional requirements of the expected system. In this section, we gather and process the requirements from the end-user (client), analyze and document them as Functional and Non-Functional requirements.
 
 ### Functional Requirements
 
