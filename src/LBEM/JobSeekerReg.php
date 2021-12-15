@@ -540,6 +540,7 @@ include "menu.php"
                           <option value="Graduate">Graduate</option>
                           <option value="UnderGraduate">UnderGraduate</option>
 						  <option value="Highschool">Highschool</option>
+						  <option value="Highschool">Masters</option>
                         </select>
                       </label></td>
                     </tr>
