@@ -184,8 +184,9 @@ INSERT INTO `job_master` (`JobId`, `CompanyName`, `JobTitle`, `Vacancy`, `MinQua
 (1, 'Guru', 'Cashier', 2, 'UnderGraduate', 'Cashier at Store with $15 per hour'),
 (2, 'B2 Outlet Stores', 'Helper', 3, 'UnderGraduate', 'Freshers Are Invited and $12 per hour'),
 (3, 'Willies one stop', 'Cleaner', 1, 'UnderGraduate', 'Flexible hours of working'),
-(4, 'Indian Cuisine', 'Chef', 2, 'Graduate', 'Specialized in Indian cooking');
-
+(4, 'Indian Cuisine', 'Chef', 2, 'Graduate', 'Specialized in Indian cooking'),
+(15, 'PIzza', 'Chef', 0, 'Graduate', 'Good at time management and Excel'),
+(19, 'Marathon Gas', 'Cashier', 1, 'UnderGraduate', 'Good at maths and using computer.');
 
 -- --------------------------------------------------------
 
