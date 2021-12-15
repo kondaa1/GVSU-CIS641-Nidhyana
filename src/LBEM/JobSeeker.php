@@ -169,7 +169,7 @@ include "menu.php"
 $con = mysqli_connect("localhost","root","","job");
 
 // Specify the query to execute
-$sql = "select * from employer_reg,job_master where Status='Confirm' and employer_reg.companyname = job_master.companyname";
+$sql = "select * from employer_reg,job_master where Status='Confirm' and employer_reg.companyname = job_master.companyname and Vacancy <> 0";
 // Execute query
 $result = mysqli_query($con,$sql);
 // Loop through each records
