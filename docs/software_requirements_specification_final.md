@@ -150,9 +150,9 @@ Traceability links sections provide the link between artifacts (use case diagram
 
 #### Activity Diagram Traceability
 
-- | ActivityDiagram_1 | ActivityDiagram_1 | FR2, FR3, FR4, FR5, FR26, FR27, FR28, FR29, FR30, FR31, FR32, FR34 |
+- | ActivityDiagram_1 | Registation of job seeker | FR2, FR3, FR4, FR5, FR26, FR27, FR28, FR29, FR30, FR31, FR32, FR34 |
 
-- | ActivityDiagram_3 | ActivityDiagram_3 | FR35, FR36, FR37, FR38, FR39, FR40 |
+- | ActivityDiagram_3 | Job Application | FR35, FR36, FR37, FR38, FR39, FR40 |
 
 ## _Software Artifacts_
 
