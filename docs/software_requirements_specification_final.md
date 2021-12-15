@@ -119,7 +119,7 @@ Once the pilot testing is successfully done, we’ll also try to make our websit
 This application right now is an on-prem application so to make sure it is integrated we’ll ask users to complete XAMPP installation ( Apache server and MySQL database will be available). We’ll provide our source code in the form of a zip folder and ask to extract the folder in the path: C:\xampp\htdocs. Development of this application has been done on Windows O.S. and the Mac O.S. so it has been integrated for both these O.S. We’ll prepare a guide with the below instructions:
 
  - Install XAMPP on the system.
- - Initiate Apache server & MySQL database as below:
+ - Initiate Apache server & MySQL database.
  - Download the LBEM.zip folder and extract it. Keep the extracted folder in below path:
 C:\xampp\htdocs.
  - Open the localhost [link](http://localhost/LBEM/index.php)
