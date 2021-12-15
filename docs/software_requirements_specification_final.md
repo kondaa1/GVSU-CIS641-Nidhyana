@@ -120,7 +120,7 @@ This application right now is an on-prem application so to make sure it is integ
 
  - Install XAMPP on the system.
  - Initiate Apache server & MySQL database.
- - Download the LBEM.zip folder and extract it. Keep the extracted folder in below path:
+ - Download the LBEM.zip folder and extract it. Keep the extracted folder in the path:
 C:\xampp\htdocs.
  - Open the localhost [link](http://localhost/LBEM/index.php)
  - We will continue to test the application for all the ecosystems to make sure it has been properly integrated.
