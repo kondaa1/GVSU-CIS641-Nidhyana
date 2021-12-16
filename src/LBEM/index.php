@@ -85,7 +85,7 @@ include "menu.php"
 
             <!-- Article -->
             <div class="article">
-                <h2><span><a href="#">Welcome To Local Business Employment Management</a></span></h2>
+                <h2><span><a href="#">Welcome To Local Business Employee Management</a></span></h2>
 				<h3><marquee>Welcome To LBEM</marquee></h3>
                
 
